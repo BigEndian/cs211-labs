@@ -1,0 +1,11 @@
+Append	Total 	
+Insert	Perfect              	1
+Insert	England	2
+Append	Book	
+Print	 	 
+Insert	Perfect	5
+Delete	 	1
+Delete	 	7
+Insert	Money	2
+Delete	 	3
+Print	 	 

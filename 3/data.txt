@@ -1,0 +1,12 @@
+Person Eric Carr 100 18 M
+Person John Doe 101 19 M
+Person Jane Doe 102 20 F
+
+Student 2013
+Student 1005
+Student 1000
+
+Course 10329 General Education Lifelong Learning 101
+Course 39283 General Education Writing 101
+Course 39245 Computer Science 211
+
