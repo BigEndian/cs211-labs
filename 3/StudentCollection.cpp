@@ -30,14 +30,16 @@ void StudentCollection::PrintAStudentCollection()
 		this->StCollection[i].PrintAStudentProfile();
 	}
 }
-
+void StudentCollection::GetInfo(const string& filename)
 {
 	string type;
 	Course courses[3];
 	Student students[3];
 	Person people[3];
 	StudentProfile profiles[3];
-	ifstream fin("data.txt");
+	ifstream fin(filename.c_str());
+	if (!fin)
+		return;
 	
 	// Course stuff
 	int courseID;
@@ -84,6 +86,9 @@ void StudentCollection::PrintAStudentCollection()
 	fin.close();
 	for (int i = 0; i < 3; i++)
 	{
+		students[i].SetCourse(courses[0], 0);
+		students[i].SetCourse(courses[1], 1);
+		students[i].SetCourse(courses[2], 2);
 		profiles[i].SetAStudentProfile(people[i], students[i]); // Set a student profile
 		this->StCollection.push_back(profiles[i]); // Add the student profile
 	}

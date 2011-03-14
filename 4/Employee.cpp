@@ -52,7 +52,7 @@ void SetSalary(Employee& employee)
 	{
 		employee.salary = 70000;
 	}
-	else if (employee.empPosition = 'D') // Director, I could use an else, except that would cover invalid positions.
+	else if (employee.empPosition == 'D') // Director, I could use an else, except that would cover invalid positions.
 	{
 		employee.salary = 80000;
 	}
