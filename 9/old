@@ -1,0 +1,39 @@
+Node (addr 0x96f31d0): Mary <mary@csusm.edu> age 19, ID 76543)
+Node (addr 0x96f31e8): Kathy <kathy@csusm.edu> age 30, ID 98765)
+Node (addr 0x96f3238): Flora <flora@csusm.edu> age 25, ID 16438)
+Node (addr 0x96f3288): Peter <peter@csusm.edu> age 29, ID 43260)
+Node (addr 0x96f32d8): Kim <kim@csusm.edu> age 31, ID 87590)
+
+
+Node (addr 0x96f1090): Joe <joe@csusm.edu> age 35, ID 54123)
+Node (addr 0x96f31d0): Mary <mary@csusm.edu> age 19, ID 76543)
+Node (addr 0x96f1040): Jim <jim@csusm.edu> age 25, ID 54321)
+Node (addr 0x96f31e8): Kathy <kathy@csusm.edu> age 30, ID 98765)
+Node (addr 0x96f3238): Flora <flora@csusm.edu> age 25, ID 16438)
+Node (addr 0x96f3288): Peter <peter@csusm.edu> age 29, ID 43260)
+Node (addr 0x96f32d8): Kim <kim@csusm.edu> age 31, ID 87590)
+Node (addr 0x96f1130): Nancy <nancy@csusm.edu> age 27, ID 66641)
+Node (addr 0x96f10e0): Adam <adam@csusm.edu> age 20, ID 63421)
+
+
+the record was not found
+
+
+Node (addr 0x96f1090): Joe <joe@csusm.edu> age 35, ID 54123)
+Node (addr 0x96f31d0): Mary <mary@csusm.edu> age 19, ID 76543)
+Node (addr 0x96f31e8): Kathy <kathy@csusm.edu> age 30, ID 98765)
+Node (addr 0x96f3238): Flora <flora@csusm.edu> age 25, ID 16438)
+Node (addr 0x96f3288): Peter <peter@csusm.edu> age 29, ID 43260)
+Node (addr 0x96f32d8): Kim <kim@csusm.edu> age 31, ID 87590)
+Node (addr 0x96f1130): Nancy <nancy@csusm.edu> age 27, ID 66641)
+Node (addr 0x96f10e0): Adam <adam@csusm.edu> age 20, ID 63421)
+
+
+Node (addr 0x96f1040): Joe <joe@csusm.edu> age 35, ID 54123)
+Node (addr 0x96f1028): Mary <mary@csusm.edu> age 19, ID 76543)
+Node (addr 0x96f1148): Kathy <kathy@csusm.edu> age 30, ID 98765)
+Node (addr 0x96f1160): Flora <flora@csusm.edu> age 25, ID 16438)
+Node (addr 0x96f1178): Peter <peter@csusm.edu> age 29, ID 43260)
+Node (addr 0x96f1190): Kim <kim@csusm.edu> age 31, ID 87590)
+Node (addr 0x96f11a8): Nancy <nancy@csusm.edu> age 27, ID 66641)
+Node (addr 0x96f11c0): Adam <adam@csusm.edu> age 20, ID 63421)
