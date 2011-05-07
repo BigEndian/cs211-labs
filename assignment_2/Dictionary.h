@@ -10,8 +10,8 @@ using namespace std;
 
 class Dictionary
 {
-	// Author: Eric Carr
-	// Email Address: carr046@cougars.csusm.edu
+	// Author: <REDACTED>
+	// Email Address: <REDACTED>
 	// Date Written: Between February 2011 and March 2011
 	// Purpose: To simulate a word repository of sorts, with each word sorted by first letter, into their own
 	// separate files (A.txt, B.txt, et al.), and perform various modifications to the data contained in those files:

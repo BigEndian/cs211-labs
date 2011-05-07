@@ -2,8 +2,8 @@
 #include <iostream>
 #include <string>
 // Assignment Number: 2 (Dictionary class)
-// Author: Eric Carr
-// Email Address: carr046@cougars.csusm.edu
+// Author: <REDACTED>
+// Email Address: <REDACTED>
 // Date written: Between February and March 2011
 // Purpose: To use the dictionary class's ProcessTransactionFile
 //          and the functions it calls to modify and use the Dictionary class's abilities
